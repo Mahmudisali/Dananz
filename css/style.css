@@ -1,0 +1,35 @@
+.navlar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yazi-basliq b {
+  display: flex;
+  justify-content: center;
+}
+
+.yazi1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.yazi-basliq {
+  margin-top: 110px;
+}
+
+.s1 {
+  display: flex;
+  justify-content: center;
+}
+
+.s2 {
+  display: flex;
+  justify-content: center;
+}
+
+.s3 {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
